@@ -1,4 +1,4 @@
-SaeKabar Free v3.1.11
+SaeKabar Free v3.1.12
 
 Cadangkan tema melalui Blogger > Tema > Cadangkan.
 Pasang XML melalui Tema > Pulihkan. Atur logo/menu/konten di Tata Letak.
