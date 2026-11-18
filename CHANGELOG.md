@@ -1,5 +1,11 @@
 # Changelog
 
+## Free 3.1.14 — 2026-11-18
+
+- Pembaruan minor.
+- Pengaturan Tata Letak dan nilai warna dapat dipertahankan saat memperbarui dari cadangan XML dengan alat pembaruan Free.
+
+
 ## Free 3.1.13 — 2026-11-17
 
 - Kredit footer dipulihkan jika terhapus, berubah, atau disembunyikan.
